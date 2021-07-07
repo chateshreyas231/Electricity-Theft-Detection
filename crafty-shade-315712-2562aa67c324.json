@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crafty-shade-315712",
+  "private_key_id": "2562aa67c32417d34f16b845ecc9b6f3283c2d11",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCUO02mqPK8T70w\nHKmEjwwzy87RDEdEYDg+6C0LraD90S5UPXsx75Rt/UKjG7bPN6rFPN0NibkhxvzW\nzp0pjD8a5RGk/lpOoBI9twcT3w9NmfU0JFRm7UMH/zb4LpQI0bTIoqwd4L64C0Tx\nXGw12YiIQm78mIH4j1nV6vsn02+CluZwYy/7x5D/fiPA2T6vL6rT+oDVgGsLP9j7\nZEfx+RFsaXx84t/pmI3CAUZl871uUTszAVlIwcEBL3VEbbVKkv1PqfBbKFyBD+Uh\nciFqKGRmsMILbe7qU7CBUNP+Omz3IdpgrC83NZ5yAEsPuwiP6aoOh1rDuQ4+XwvG\nHp8JlSMBAgMBAAECggEAAq/ghHjjjY5Ue57JY+HD8txq71cto4uq+Vj0GBYZqQA1\nuskyhoE1S5kfsB08fx0fN1wXFbu9Y2NcCfjM2If2TOKCI1+I+4vjSMMcmbudZ2a3\nDy7paMQ8RtTVhkIx5McIY+qu/Auq6WMq6MUoIQHEe9PYdzO8h2jx0/LigqJOjytu\nCNo0V7rZkWG73tGJLg0CWw5YoE3KAODkl+OvlNtsWXSPDfOV0RDWjCgIR/Gn+zY5\nOKv81fSVjAR9HKuCv7aD/I5ARui2XteyJ5stRCbDtL4CozIqi5+P1tZ7gcJ4g/oV\n9lh5jLmQdJM0QAVR8Ytj6Vv5bSN57w3/RiHK2FZwAQKBgQDJu1D8g6CmQmI1jv5U\n6O+RnyamgtLxoHolpSbKwTHP5NTboXueMiIhqqGEpHOa8/co6xGaXCYqzL9ZtUl2\n/F7weM2VlXnMHYH013h+MRt/LArWbMSCNJgZ1SdumnWEbjikaXprT4j2k1Syr5wI\n4urCSNh0SVy89iBkKUaVw6FgYQKBgQC8G5eL1Wq7SAiymdkwiyp2SIBP1uXdsNQJ\nXRNeCxEfuWDNIz0SK0EQgo/ulR+csC4EulDSVJkbrYjcYww74wx3D0R4sMglmkYu\nf/3CZd2Ey/LEkmvZytPWzUcPJGujDRdWoHlUdF0aDG1bWAZw1hUAm3jb5QxbFIrd\n40tTzd1GoQKBgAegq4lAuNxQekIoK/mt7REGgYGeRLeaJ8QwoGzeLTH9Jwc+7dun\nbZ70QrMvPKfJPbkwWjQJ8+9+WmXb8vEqzbQt/SgAxOAw5W8KjqXG2ZFPawF8j1mU\n/4NKifkmofbl7AJbcqOIGFeqbnNrLG0xl0rNUlHjTDxg2gyvetnC0eFBAoGBAKcn\nqbJT0oVbzIbRGeP+NpxnbsYDw74NTU6IzBYMpYnYVIHV54YGs8m1C6vKDg5RrIL9\nAab2EBw9R9n3lj59U21VPtY02ZY4klbt25Rsqr0/8pnlNzuQ9k/xmEyHY7K/hlav\nQUHgKX9lPaQnA4ovYvhoL6zPy/v/tCrauOxeilwhAoGAew2GmTZ+VaD3Mbg5JSk0\nV6SIi2lkAWXL3vLqwHy8Ovuyz/HuMhI8KM2EVb18vCUl2fD6WMNglXRREcEoIXLs\nwQnGOCIc9cZRALlrx5BMTMJfZplVFg5DnU+pahcqfgzYbXRCKd60Re+J4TA+COmH\nFGvoRhIX2KqMC51Stnile6Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "shreyaschate@crafty-shade-315712.iam.gserviceaccount.com",
+  "client_id": "117962861852493985034",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shreyaschate%40crafty-shade-315712.iam.gserviceaccount.com"
+}
